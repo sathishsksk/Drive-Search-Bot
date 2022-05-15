@@ -8,9 +8,9 @@
       "aria",
       "python"
     ],
-    "repository": "https://github.com/devillD/Drive-Search-Bot.git",
-    "website": "https://github.com/devillD/Drive-Search-Bot/tree/master",
-    "success_url": "https://github.com/devillD/Drive-Search-Bot/tree/master/README.md",
+    "repository": "https://github.com/sathishsksk/Drive-Search-Bot.git",
+    "website": "https://github.com/sathishsksk/Drive-Search-Bot/tree/master",
+    "success_url": "https://github.com/sathishsksk/Drive-Search-Bot/tree/master/README.md",
     "stack": "container",
       "env": {
       "BOT_TOKEN": {

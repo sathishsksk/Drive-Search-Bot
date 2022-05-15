@@ -27,15 +27,15 @@
       },
       "CRED_URL": {
         "description": "Credentials.json file direct url",
-        "required": true
+        "required": false
       },
       "TOKEN_URL": {
         "description": "token.pickle file direct url",
-        "required": true
+        "required": false
       },
       "DRIVE_FILE": {
         "description": "drive_folder file direct url",
-        "required": true
+        "required": false
       }
     }
 }
